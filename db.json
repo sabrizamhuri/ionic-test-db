@@ -4,27 +4,32 @@
     {
       "id": 1,
       "name":"Sabri",
-      "age": 21
+      "age": 21,
+      "image": ""
     },
     {
       "id": 2,
       "name":"Irwan",
-      "age": 25
+      "age": 25,
+      "image": ""
     },
     {
       "id": 3,
       "name":"Ain",
-      "age": 25
+      "age": 25,
+      "image": ""
     },
     {
       "id": 4,
       "name":"Fikry",
-      "age": 24
+      "age": 24,
+      "image": "https://scontent-yyz1-1.cdninstagram.com/vp/2ec704fee44e3542143c39eb94e306b1/5BCA5720/t51.2885-19/s150x150/25021813_154385681855625_8564416370228330496_n.jpg"
     },
     {
       "id": 5,
       "name":"Yasmin",
-      "age": 24
+      "age": 24,
+      "image": ""
     }
   ]
 }
